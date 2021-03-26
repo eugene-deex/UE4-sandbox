@@ -1,4 +1,4 @@
-# deex_sandbox
+# sandbox
 My training project for Unreal Engine 4.
 
 Implemented:
